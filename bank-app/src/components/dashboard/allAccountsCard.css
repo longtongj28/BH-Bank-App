@@ -1,0 +1,40 @@
+.all-accounts-card {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    padding: 15px;
+    transform:translate(-30%, -30%);
+    width: 700px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -2px rgba(0,0,0,0.3);
+}
+
+.accounts-headers {
+    display: flex;
+}
+.account-info {
+    background: rgba(0,0,0,0.15);
+    display: flex;
+    margin-bottom: 10px;
+    height: 35px;
+}
+
+.header-2 {
+    position:absolute;
+    right: 30%;
+}
+.header-3 {
+    position: absolute;
+    right: 10%;
+}
+
+.rewards-value {
+    position: absolute;
+    right: 30%;
+}
+
+.balance-value {
+    position: absolute;
+    right: 10%;
+}
